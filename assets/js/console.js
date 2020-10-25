@@ -30,11 +30,11 @@ const COMMANDS = {
 	hack:
 		'<span class="code">Ооо дааа, хакни эту суку полностью! (Подсказка: Для взлома, Вам надо разгадать последние цифры команды: hack_***)</span>',
 	hack_132:
-		'<span class="code">Password: 8080 (Для подробной информации пропишите команду: admin)</span>',
+		'<span class="code">Password: 8080 (Для подробной информации введите команду: admin)</span>',
 	admin:
-		'<span class="code">Ошибка доступа. Для авторизации напишите admin_****(Пароль)</span>',
+		'<span class="code">Ошибка доступа. Для авторизации введите: admin_****(admin_Пароль)</span>',
 	dev:
-		'<span class="code">Ошибка доступа. Для авторизации напишите admin_****(Пароль)</span>',
+		'<span class="code">Ошибка доступа. Для авторизации введите: admin_****(admin_Пароль)</span>',
 	yt:
 		"Ютуб канал: <a href='https://www.youtube.com/c/REINTHIS?sub_confirmation=1' target='_blank' class='success link'>youtube.com/ReinThis</a>",
 	vkontakte:
