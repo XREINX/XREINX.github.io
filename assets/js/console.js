@@ -1,7 +1,7 @@
 const BLACKLISTED_KEY_CODES = [ 38 ];
 const COMMANDS = {
 	help:
-		'Возможные команды: <span class="code">youtube</span>, <span class="code">vk</span>, <span class="code">steam</span>, <span class="code">discord</span>, <span class="code">donate</span>, <span class="code">games</span>',
+		'Возможные команды: <span class="code">youtube</span>, <span class="code">vk</span>, <span class="code">steam</span>, <span class="code">discord</span>, <span class="code">donate</span>, <span class="code">games</span>, <span class="code">info</span>',
 	admin_8080:
 		'Список секретных комманд: <span class="code">bratishkin</span>, <span class="code">disadisadisa</span>, <span class="code">files</span>, <span class="code">server</span>',
 	youtube:
@@ -23,6 +23,8 @@ const COMMANDS = {
 		"Слышь бес ебливый, ты вообще берега путаешь хуeплет дырявый. Ты бля водолаз не ровно стелишь, так хуле ща люди к тебе кабанчиком метнутся, шуману кому надо, потом опрокинут тебя черт фаршмачный, давай нахуй адресок свой урони с циферками, тебя наберут люди проедешься с ними по лесам, флору фауну посмотришь, белочек покормишь, на жопу можешь не приседать, там хуле псе ровно, спортики схвачены, подъедут скажут от Якута, там уже решать будем что с тобой делать, пальцы отрезать или руки прибить к дереву ебло нахуй. Ты вообще нахуй кто бля, никто ежжи, я бля тот кто тебе лещей раздаст и за щеку накидает, защеканец, давай нахуй ща Айбек с Асланом приедут к тебе, будут из тебя котлетки ебать делать, крест ты нахуй, давай гасись гагус ебливый",	
 	files:
 		'<span class="code">У вас недостаточно прав для просмотра хранилища</span>',
+	info:
+		'<span class="code">У вас недостаточно прав для просмотра информации</span>',
 	server:
 		'<span class="code">Соединение с сервером успешно установлено . . .</span>',
 	hack:
