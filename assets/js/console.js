@@ -32,9 +32,9 @@ const COMMANDS = {
 	hack_132:
 		'<span class="code">Password: 8080 (Для подробной информации введите команду: admin)</span>',
 	admin:
-		'<span class="code">Ошибка доступа. Для авторизации введите: admin_****(admin_Пароль)</span>',
+		'<span class="code">Ошибка доступа. Для авторизации введите: admin_****(admin_пароль)</span>',
 	dev:
-		'<span class="code">Ошибка доступа. Для авторизации введите: admin_****(admin_Пароль)</span>',
+		'<span class="code">Ошибка доступа. Для авторизации введите: admin_****(admin_пароль)</span>',
 	yt:
 		"Ютуб канал: <a href='https://www.youtube.com/c/REINTHIS?sub_confirmation=1' target='_blank' class='success link'>youtube.com/ReinThis</a>",
 	vkontakte:
