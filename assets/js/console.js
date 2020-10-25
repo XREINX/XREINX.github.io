@@ -1,7 +1,9 @@
 const BLACKLISTED_KEY_CODES = [ 38 ];
 const COMMANDS = {
 	help:
-		'Возможные команды: <span class="code">youtube</span>, <span class="code">vk</span>, <span class="code">steam</span>, <span class="code">discord</span>, <span class="code">donate</span>',
+		'Возможные команды: <span class="code">youtube</span>, <span class="code">vk</span>, <span class="code">steam</span>, <span class="code">discord</span>, <span class="code">donate</span>, <span class="code">games</span>',
+	admin_8080:
+		'Список секретных комманд: <span class="code">bratishkin</span>, <span class="code">disadisadisa</span>',
 	youtube:
 		"Ютуб канал: <a href='https://www.youtube.com/c/REINTHIS?sub_confirmation=1' target='_blank' class='success link'>youtube.com/ReinThis</a>",
 	vk:
@@ -12,6 +14,8 @@ const COMMANDS = {
 		"Дискорд: REIN#7777",
 	donate:
 		"QIWI Копилка: <a href='https://qiwi.me/beae027f-43d9-4dd4-a5a9-217ae2361f39' target='_blank' class='success link'>qiwi.me/beae027f-43d9-4dd4-a5a9-217ae2361f39</a>",
+	qiwi:
+		"QIWI Копилка: <a href='https://qiwi.me/beae027f-43d9-4dd4-a5a9-217ae2361f39' target='_blank' class='success link'>qiwi.me/beae027f-43d9-4dd4-a5a9-217ae2361f39</a>",
 	bratishkin:
 		"Мартышкин? Знаю его, ахуенный чел))",
 
@@ -20,11 +24,21 @@ const COMMANDS = {
 	files:
 		'<span class="code">У вас недостаточно прав для просмотра хранилища</span>',
 	hack:
-		'<span class="code">Ооо дааа, хакни эту суку полностью!</span>',
+		'<span class="code">Ооо дааа, хакни эту суку полностью! (Подсказка: Для взлома, Вам надо разгадать последние цифры команды: hack_***</span>',
+	hack_132:
+		'<span class="code">Password: 8080 (Для подробной информации пропишите команду: admin)</span>',
+	admin:
+		'<span class="code">Ошибка доступа. Для авторизации напишите admin_****(Пароль)</span>',
+	dev:
+		'<span class="code">Ошибка доступа. Для авторизации напишите admin_****(Пароль)</span>',
 	yt:
 		"Ютуб канал: <a href='https://www.youtube.com/c/REINTHIS?sub_confirmation=1' target='_blank' class='success link'>youtube.com/ReinThis</a>",
 	vkontakte:
 		"Страница VK: <a href='https://vk.com/rossovskii' target='_blank' class='success link'>vk.com/rossovskii</a>",
+	game:
+		"Игровой раздел: <a href='https://rein.tk/games' target='_blank' class='success link'>rein.tk/games</a>",
+	games:
+		"Игровой раздел: <a href='https://rein.tk/games' target='_blank' class='success link'>rein.tk/games</a>",
 	ds:
 		"Дискорд: REIN#7777",
 	hi:
