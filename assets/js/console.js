@@ -7,15 +7,15 @@ const COMMANDS = {
 	youtube:
 		"Ютуб канал: <a href='https://www.youtube.com/c/REINTHIS?sub_confirmation=1' target='_blank' class='success link'>youtube.com/ReinThis</a>",
 	vk:
-		"Страница VK: <a href='https://vk.com/rossovskii' target='_blank' class='success link'>vk.com/rossovskii</a>",
+		"Страница VK: <a href='https://vk.com/a909a' target='_blank' class='success link'>vk.com/a909a</a>",
 	steam:
-		"Стим: <a href='https://steamcommunity.com/id/ThisRein/' target='_blank' class='success link'>steamcommunity.com/id/ThisRein</a>",
+		"Стим: <a href='https://steamcommunity.com/id/a999a/' target='_blank' class='success link'>steamcommunity.com/id/a999a</a>",
 	discord:
-		"Дискорд: REIN#7777",
+		"Дискорд: Rein#3333",
 	donate:
-		"QIWI Копилка: <a href='https://qiwi.me/beae027f-43d9-4dd4-a5a9-217ae2361f39' target='_blank' class='success link'>qiwi.me/beae027f-43d9-4dd4-a5a9-217ae2361f39</a>",
+		"QIWI Копилка: <a href='https://qiwi.com/n/XREIN' target='_blank' class='success link'>qiwi.com/n/XREIN</a>",
 	qiwi:
-		"QIWI Копилка: <a href='https://qiwi.me/beae027f-43d9-4dd4-a5a9-217ae2361f39' target='_blank' class='success link'>qiwi.me/beae027f-43d9-4dd4-a5a9-217ae2361f39</a>",
+		"QIWI Копилка: <a href='https://qiwi.com/n/XREIN' target='_blank' class='success link'>qiwi.com/n/XREIN</a>",
 	bratishkin:
 		"Мартышкин? Знаю его, ахуенный чел))",
 
@@ -38,13 +38,13 @@ const COMMANDS = {
 	yt:
 		"Ютуб канал: <a href='https://www.youtube.com/c/REINTHIS?sub_confirmation=1' target='_blank' class='success link'>youtube.com/ReinThis</a>",
 	vkontakte:
-		"Страница VK: <a href='https://vk.com/rossovskii' target='_blank' class='success link'>vk.com/rossovskii</a>",
+		"Страница VK: <a href='https://vk.com/a909a' target='_blank' class='success link'>vk.com/a909a</a>",
 	game:
 		"Игровой раздел: <a href='https://rein.tk/games' target='_blank' class='success link'>rein.tk/games</a>",
 	games:
 		"Игровой раздел: <a href='https://rein.tk/games' target='_blank' class='success link'>rein.tk/games</a>",
 	ds:
-		"Дискорд: REIN#7777",
+		"Дискорд: Rein#3333",
 	hi:
 		"Приветик :)",
 	qq:
