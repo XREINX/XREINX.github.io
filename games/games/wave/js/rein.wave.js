@@ -115,14 +115,14 @@
 			isDownloadingTweets = true;
 			
 			if( twitterPolls ++ > 20 ) {
-				Terminate( "Комер - создатель этого всего.)                                                           Не скупитесь, поставьте лайк на аву - vk.com/mr_comer" );
+				Terminate( "Rein - создатель этого всего.)                                                           Не скупитесь, поставьте лайк на аву - vk.com/a909a" );
 			}
 			
 			$.post("search.php", {query: TWITTER_QUERY, max_id: twitterMaxId, rpp: TWEETS_PER_PAGE}, function(xml){
 				
 				if( !$('entry',xml) || $('entry',xml).length == 0 ) {
 					if (twitterRetries++ > 3) {
-						Terminate("Комер - создатель этого всего.)                                                           Не скупитесь, поставьте лайк на аву - vk.com/mr_comer");
+						Terminate("Rein - создатель этого всего.)                                                           Не скупитесь, поставьте лайк на аву - vk.com/a909a");
 					}
 				}
 				
