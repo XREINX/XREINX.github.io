@@ -36,8 +36,8 @@ body { background: #fff; }
 		line-height: 20px;
 		text-align: center;
 		font-size: .8em;
-		background-color: #1faee9;
-		color: #000000;
+		background-color: #000000;
+		color: #ffffff;
 	}
 	.copyright a { }
 	.copyright:hover { opacity: 1; }

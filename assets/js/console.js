@@ -11,7 +11,7 @@ const COMMANDS = {
 	steam:
 		"Стим: <a href='https://rein.tk/steam' target='_blank' class='success link'>steamcommunity.com/id/a999a</a>",
 	discord:
-		"Дискорд: Rein#3333",
+		"Discord: <a href='https://rein.tk/discord' target='_blank' class='success link'>Rein#3333</a>",
 	donate:
 		"QIWI Копилка: <a href='https://rein.tk/donate' target='_blank' class='success link'>qiwi.com/n/XREIN</a>",
 	qiwi:
@@ -51,7 +51,7 @@ const COMMANDS = {
 	games:
 		"Игровой раздел: <a href='https://rein.tk/games' target='_blank' class='success link'>rein.tk/games</a>",
 	ds:
-		"Дискорд: Rein#3333",
+		"Discord: <a href='https://rein.tk/discord' target='_blank' class='success link'>Rein#3333</a>",
 	hi:
 		"Приветик :)",
 	privet:
