@@ -50,6 +50,8 @@ const COMMANDS = {
 		"Игровой раздел: <a href='https://rein.tk/games' target='_blank' class='success link'>rein.tk/games</a>",
 	games:
 		"Игровой раздел: <a href='https://rein.tk/games' target='_blank' class='success link'>rein.tk/games</a>",
+	exit:
+		"Для выхода: <a href='https://rein.tk/' target='_blank' class='success link'>*кликни*</a>",
 	ds:
 		"Discord: <a href='https://rein.tk/discord' target='_blank' class='success link'>Rein#3333</a>",
 	hi:
